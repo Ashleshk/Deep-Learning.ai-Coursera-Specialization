@@ -60,17 +60,22 @@ deeplearning.ai is Andrew Ng's new venture which amongst others, strives for pro
 
 ## Instructors
 ![alt text](https://github.com/Ashleshk/Deep-Learning.ai-Coursera-Specialization/blob/master/Resources/AndrewNg-Headshot.jpg "Andrew Ng")
+
 **Andrew Ng**
 TOP INSTRUCTOR
 CEO/Founder Landing AI; Co-founder, Coursera; Adjunct Professor, Stanford University; formerly Chief Scientist,Baidu and founding lead of Google Brain
  
-**Head Teaching Assistant -** **Kian Katanforoosh**
+
 ![alt text](https://github.com/Ashleshk/Deep-Learning.ai-Coursera-Specialization/blob/master/Resources/Kian-Katan-copy.jpg "Kain katanforoosh")
+
+**Head Teaching Assistant -** **Kian Katanforoosh**
 TOP INSTRUCTOR
 Lecturer of Computer Science at Stanford University, deeplearning.ai, Ecole CentraleSupelec
  
-**Teaching Assistant - Younes Bensouda Mourri**
+
 ![alt text](https://github.com/Ashleshk/Deep-Learning.ai-Coursera-Specialization/blob/master/Resources/Younes.jpg "Younes Mourri")
+
+**Teaching Assistant - Younes Bensouda Mourri**
 TOP INSTRUCTOR
 Mathematical & Computational Sciences, Stanford University, deeplearning.ai,Computer Science
 
